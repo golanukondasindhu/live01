@@ -1,2 +1,2 @@
 # maven
-maven testing
+maven
